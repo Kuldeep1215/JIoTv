@@ -1,4 +1,4 @@
-# Jio-tv-working
+# Working Jio TV
 
 Step-1 place these 4-php + 1-html files in your localhost root directory.
 
